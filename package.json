@@ -1,0 +1,18 @@
+{
+  "name": "blocks-achievements",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "author": "ms6rb",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.16.0",
+    "dotenv": "^16.3.1",
+    "fs": "0.0.1-security",
+    "mysql2": "^3.4.0"
+  }
+}
